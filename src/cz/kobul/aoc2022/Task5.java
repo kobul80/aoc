@@ -9,7 +9,7 @@ import java.util.Stack;
 /**
  * https://adventofcode.com/2022/day/5
  */
-public class Task5 extends Aoc {
+public class Task5 extends Aoc2022 {
 
     public static record Move (int count, int from, int to) {
     }

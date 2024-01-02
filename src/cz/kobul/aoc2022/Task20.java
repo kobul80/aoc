@@ -7,7 +7,7 @@ import java.util.List;
  * https://adventofcode.com/2022/day/20
  * start 6:00 end 8:34 lamismus!
  */
-public class Task20 extends Aoc {
+public class Task20 extends Aoc2022 {
 
     private int indexOf(int[] a, int i) {
         for (int x = 0; x < a.length; x++) {

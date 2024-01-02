@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/7
  * start 6:01, end 6:35
  */
-public class Task7 extends Aoc {
+public class Task7 extends Aoc2022 {
 
     public void solve() throws Exception {
         String fileName = getDefaultInputFileName();

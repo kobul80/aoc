@@ -4,7 +4,7 @@ package cz.kobul.aoc2022;
  * https://adventofcode.com/2022/day/8
  * start 6:00, end 6:34
  */
-public class Task8 extends Aoc {
+public class Task8 extends Aoc2022 {
 
     int[][] trees;
 

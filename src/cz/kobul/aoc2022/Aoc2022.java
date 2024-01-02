@@ -32,7 +32,7 @@ import java.util.stream.Stream;
 /**
  * Support class for AOC problem solving
  */
-public abstract class Aoc {
+public abstract class Aoc2022 {
 	
 	public static final String FN_PREFIX = "res/cz/kobul/aoc2022/";
 
@@ -192,7 +192,7 @@ public abstract class Aoc {
 
         return
                 input.collect(
-                        Collectors.groupingBy(x -> x == null ? counter.incrementAndGet() : counter.get(), Collectors.reducing(Aoc::sumLong)))
+                        Collectors.groupingBy(x -> x == null ? counter.incrementAndGet() : counter.get(), Collectors.reducing(Aoc2022::sumLong)))
                 .values().stream().map(Optional::get);
     }
 
@@ -201,7 +201,7 @@ public abstract class Aoc {
     }
 
     public static Stream<Long> getLongStream(String fileName) throws IOException {
-        return Files.lines(Paths.get(fileName)).map(Aoc::strToLong);
+        return Files.lines(Paths.get(fileName)).map(Aoc2022::strToLong);
     }
 
     public void logResult(int part, Object result) {

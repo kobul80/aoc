@@ -5,7 +5,7 @@ import java.util.Comparator;
 /**
  * https://adventofcode.com/2022/day/1
  */
-public class Task1 extends Aoc {
+public class Task1 extends Aoc2022 {
 
 	@Override
 	public void solve() throws Exception {

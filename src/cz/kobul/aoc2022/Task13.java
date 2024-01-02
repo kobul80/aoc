@@ -8,7 +8,7 @@ import java.util.List;
  * https://adventofcode.com/2022/day/13
  * start 8:45, end 12:26
  */
-public class Task13 extends Aoc {
+public class Task13 extends Aoc2022 {
 
     enum Eq {
         LESS, SAME, MORE;

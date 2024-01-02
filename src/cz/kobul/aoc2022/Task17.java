@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * https://adventofcode.com/2022/day/17
  */
-public class Task17 extends Aoc {
+public class Task17 extends Aoc2022 {
 
     char[][] shape1 = new char[][] {{'0', '0','0','0'}};
 

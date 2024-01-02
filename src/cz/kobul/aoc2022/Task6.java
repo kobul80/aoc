@@ -7,7 +7,7 @@ import java.util.Set;
  * https://adventofcode.com/2022/day/6
  * start 6:50, end 7:02
  */
-public class Task6 extends Aoc {
+public class Task6 extends Aoc2022 {
 
     public static void main(String[] args) throws Exception {
         new Task6().solve();

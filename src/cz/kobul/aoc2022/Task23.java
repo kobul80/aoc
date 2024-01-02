@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/23
  * start 7:15 end 9:07 vcetne snidane
  */
-public class Task23 extends Aoc {
+public class Task23 extends Aoc2022 {
 
     protected Object solve1(List<Elf> elves) {
         int dirStart = 0;

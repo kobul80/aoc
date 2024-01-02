@@ -7,7 +7,7 @@ import java.util.Objects;
  * https://adventofcode.com/2022/day/25
  * start 9:00 end 9:50
  */
-public class Task25 extends Aoc {
+public class Task25 extends Aoc2022 {
 
 	static final List<Character> CNV = List.of('=', '-', '0', '1', '2');
 

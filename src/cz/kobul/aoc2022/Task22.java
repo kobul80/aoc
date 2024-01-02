@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  * https://adventofcode.com/2022/day/22
  * start 6:30 end 16:20 (s velkyma prestavkama :-) )
  */
-public class Task22 extends Aoc {
+public class Task22 extends Aoc2022 {
 
     protected Object solve1(Input input) {
         Dir dir = Dir.RIGHT;

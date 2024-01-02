@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * https://adventofcode.com/2022/day/9 start 6:00, end 7:11 :(
  */
-public class Task9 extends Aoc {
+public class Task9 extends Aoc2022 {
 
 	record Move(Dir dir, int cnt) {
 	}

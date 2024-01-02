@@ -7,7 +7,7 @@ import java.util.List;
  * https://adventofcode.com/2022/day/14
  * start 6:10 end 6:50
  */
-public class Task14 extends Aoc {
+public class Task14 extends Aoc2022 {
 
     char ROCK = '#';
     char SAND = 'o';

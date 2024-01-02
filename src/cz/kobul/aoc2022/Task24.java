@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/24
  * start 8:24 end 23:01
  */
-public class Task24 extends Aoc {
+public class Task24 extends Aoc2022 {
 
     protected Object solve1() {
         State s0 = new State(0, input.start);

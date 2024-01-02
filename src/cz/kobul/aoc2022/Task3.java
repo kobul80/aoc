@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 /**
  * https://adventofcode.com/2022/day/3
  */
-public class Task3 extends Aoc {
+public class Task3 extends Aoc2022 {
 
 	public static final Character sameInHalfs(String input) {
         Set<Character> s1 = new HashSet<>();

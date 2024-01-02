@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/15
  * start  end
  */
-public class Task15 extends Aoc {
+public class Task15 extends Aoc2022 {
 
     static class Sensor {
 

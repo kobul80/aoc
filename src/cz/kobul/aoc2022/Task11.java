@@ -9,7 +9,7 @@ import java.util.List;
  * https://adventofcode.com/2022/day/11
  * start 8:00, end 9:29
  */
-public class Task11 extends Aoc {
+public class Task11 extends Aoc2022 {
 
     enum Operation {
         ADD, MULT;

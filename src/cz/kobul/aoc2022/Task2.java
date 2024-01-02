@@ -5,7 +5,7 @@ import java.util.Map;
 /**
  * https://adventofcode.com/2022/day/2
  */
-public class Task2 extends Aoc {
+public class Task2 extends Aoc2022 {
 
 	enum Hand {
 		ROCK,

@@ -6,7 +6,7 @@ import java.util.List;
  * https://adventofcode.com/2022/day/10
  * start 7:00, end 7:35
  */
-public class Task10 extends Aoc {
+public class Task10 extends Aoc2022 {
 
 	enum Type {
 		NOP,

@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/21
  * start 6:02 end 7:30
  */
-public class Task21 extends Aoc {
+public class Task21 extends Aoc2022 {
 
     protected Object solve1() {
         return (long) monkeys.get("root").value();

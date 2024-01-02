@@ -3,7 +3,7 @@ package cz.kobul.aoc2022;
 /**
  * https://adventofcode.com/2022/day/4
  */
-public class Task4 extends Aoc {
+public class Task4 extends Aoc2022 {
 
     public static class Range {
 

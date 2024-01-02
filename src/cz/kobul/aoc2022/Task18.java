@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * https://adventofcode.com/2022/day/18
  * start 8:00 end 9:57
  */
-public class Task18 extends Aoc {
+public class Task18 extends Aoc2022 {
 
     enum Side {
         FRONT,

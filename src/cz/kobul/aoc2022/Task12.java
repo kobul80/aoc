@@ -9,10 +9,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * https://adventofcode.com/2022/day/11
+ * https://adventofcode.com/2022/day/12
  * start 6:10, end 8:19
  */
-public class Task12 extends Aoc {
+public class Task12 extends Aoc2022 {
 
     int[][] map;
     Pos start;

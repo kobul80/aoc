@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  * start  end
  * -- ne nonstop :)
  */
-public class Task16 extends Aoc {
+public class Task16 extends Aoc2022 {
 
     static Pattern p = Pattern.compile("Valve ([A-Z]+) has flow rate=([0-9]+); tunnels? leads? to valves? (.+)$");
 
